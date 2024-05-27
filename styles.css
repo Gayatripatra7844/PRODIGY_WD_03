@@ -1,0 +1,44 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-template-rows: repeat(3, 100px);
+    gap: 5px;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    border: 2px solid #007bff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+}
+
+.cell.winner {
+    background-color: #28a745;
+    animation: winner-animation 0.5s infinite alternate;
+}
+
+@keyframes winner-animation {
+    from {
+        background-color: #28a745;
+    }
+    to {
+        background-color: #218838;
+    }
+}
+
+.card {
+    margin-bottom: 20px;
+}
