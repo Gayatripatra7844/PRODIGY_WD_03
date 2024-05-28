@@ -1,6 +1,6 @@
 # PRODIGY_WD_03
-WELCOME TO THE TIC-TAC-TOE GAME
-Tic Tac Toe, also known as Noughts and Crosses, is a simple two-player game that is often used as a pedagogical tool for teaching concepts of strategy, logic, and problem-solving. The game is played on a 3x3 grid, and players take turns marking a space in the grid with their respective symbol—'X' or 'O'. The objective is to be the first player to get three of their symbols in a row, either horizontally, vertically, or diagonally.
+WELCOME TO THE TIC-TAC-TOE GAME <br>
+This is, also known as Noughts and Crosses, is a simple two-player game that is often used as a pedagogical tool for teaching concepts of strategy, logic, and problem-solving. The game is played on a 3x3 grid, and players take turns marking a space in the grid with their respective symbol—'X' or 'O'. The objective is to be the first player to get three of their symbols in a row, either horizontally, vertically, or diagonally.
 
 ##features:
 1.two player mode:play against a friend on the same device.
