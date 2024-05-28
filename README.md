@@ -19,7 +19,7 @@ This is, also known as Noughts and Crosses, is a simple two-player game that is 
 4.Draw: If all cells are filled with no winner, it's a draw.
 5.Options: Click Reset Game to restart or Undo Move to revert the last move.
 
-##you can play the game here:
+## you can play the game here:
 https://gayatripatra7844.github.io/PRODIGY_WD_03/
 
 
